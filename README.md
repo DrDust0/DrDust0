@@ -15,6 +15,8 @@ Treasure Hunters: https://drive.google.com/file/d/1e6pwNQwdePJdiYZ2Bs76ZpwPJxVbe
 
 ## __Jams__
 
+VimJam 2: Boss 8 Bits to Infinity: https://drdustgames.itch.io/get-out-of-it
+
 TheSign Jam 2020 https://drive.google.com/file/d/1o3ISPCJwoWLG4yIJFto7luFWoGWJmwpC/view
 
 MixArt Game Jam 2019 https://globalgamejam.org/2019/games/snil
